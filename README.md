@@ -4,7 +4,7 @@
 # City Graph class challenge (CGCC) d 
 
 
-🏆 View Live Leaderboard: [Open leaderboard](https://murad-hossen.github.io/CGCC/leaderboard/)
+🏆 View Live Leaderboard: [Open leaderboard](https://idrees11.github.io/GTA-Graph-Topology-Ablation_-GTA-/leaderboard/)
 
 This dataset comprises street network graphs for 120 diverse cities across continents including North America, South America, Europe, Asia, Africa, Australia & Oceania, and others like the Middle East and Central Asia. The graphs are extracted from OpenStreetMap using OSMnx, focusing on driveable roads within a 500-meter buffer around each city's central point.
 
